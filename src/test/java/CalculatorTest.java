@@ -1,7 +1,7 @@
 /*
 SWE202 SOFTWARE VERIFICATION AND VALIDATION / HOMEWORK-1
 Burak Alataş B201202018
-Repo Address:
+Repo Address: https://github.com/burakalatas/Java_ParameterizedTestSample
 */
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
